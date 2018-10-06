@@ -26,7 +26,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a53877984f852300c9eae321a310c731</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>All Agreements</sys_name>
         <sys_overrides/>
         <sys_package display_value="Contract Value Tracker" source="x_191599_cvt">850537544f852300c9eae321a310c776</sys_package>
@@ -34,11 +34,11 @@
         <sys_scope display_value="Contract Value Tracker">850537544f852300c9eae321a310c776</sys_scope>
         <sys_update_name>sys_app_module_a53877984f852300c9eae321a310c731</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-06 00:22:37</sys_updated_on>
+        <sys_updated_on>2018-10-06 20:47:04</sys_updated_on>
         <timeline_page/>
         <title>All Agreements</title>
         <uncancelable>false</uncancelable>
-        <view_name/>
+        <view_name>Contract Value Tracker</view_name>
         <window_name/>
     </sys_app_module>
 </record_update>

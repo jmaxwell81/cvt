@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_next_verification" label="Next verification" language="en" table="x_191599_cvt_do">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_next_verification</element>
+            <help/>
+            <hint/>
+            <label>Next verification</label>
+            <language>en</language>
+            <name>x_191599_cvt_do</name>
+            <plural>Next verifications</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 13:41:09</sys_created_on>
+            <sys_id>bd2f62e84f0d2300c9eae321a310c799</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Next verification</sys_name>
+            <sys_package display_value="Contract Value Tracker" source="x_191599_cvt">850537544f852300c9eae321a310c776</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contract Value Tracker">850537544f852300c9eae321a310c776</sys_scope>
+            <sys_update_name>sys_documentation_x_191599_cvt_do_u_next_verification_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 13:41:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

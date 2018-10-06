@@ -2,5 +2,60 @@
 <database>
     <element label="D&amp;O" max_length="40" name="x_191599_cvt_do" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="true" label="Currently active" max_length="40" name="u_active" type="boolean"/>
+        <element label="Agreement" max_length="32" name="u_agreement" reference="sla" type="reference"/>
+        <element label="Assigned to" max_length="32" name="u_assigned_to" reference="sys_user" type="reference"/>
+        <element label="Category" max_length="32" name="u_category" reference="x_191599_cvt_do_category" type="reference"/>
+        <element label="Contract § reference" max_length="100" name="u_contract_reference" type="string"/>
+        <element label="Description" max_length="1000" name="u_description" type="string"/>
+        <element label="Document" max_length="32" name="u_document" reference="task" type="reference"/>
+        <element choice="1" label="Frequency" max_length="40" name="u_frequency" type="integer">
+            <choice>
+                <element label="Once" sequence="1" value="1"/>
+                <element label="Weekly" sequence="2" value="7"/>
+                <element label="Bi-weekly" sequence="3" value="14"/>
+                <element label="Monthly" sequence="4" value="30"/>
+                <element label="Quarterly" sequence="5" value="90"/>
+                <element label="Half-yearly" sequence="6" value="182"/>
+                <element label="Annually" sequence="7" value="365"/>
+            </choice>
+        </element>
+        <element default="true" hint="Automatically generate tasks according to schedule" label="Generate tasks" max_length="40" name="u_generate_tasks" type="boolean"/>
+        <element label="Instructions" max_length="1000" name="u_instructions" type="string"/>
+        <element label="Next notification" max_length="40" name="u_next_notification" type="glide_date"/>
+        <element label="Next verification" max_length="40" name="u_next_verification" type="glide_date"/>
+        <element label="Owner" max_length="32" name="u_owner" reference="sys_user" type="reference"/>
+        <element choice="1" label="Priority" max_length="40" name="u_priority" type="integer">
+            <choice>
+                <element label="1 - Critical" sequence="1" value="1"/>
+                <element label="2 - High" sequence="2" value="2"/>
+                <element label="3 - Moderate" sequence="3" value="3"/>
+                <element label="4 - Low" sequence="4" value="4"/>
+            </choice>
+        </element>
+        <element default="606dae684f0d2300c9eae321a310c7d3" label="Schedule" max_length="32" name="u_schedule" reference="cmn_schedule" type="reference"/>
+        <element label="Short description" max_length="100" name="u_short_description" type="string"/>
+        <element label="Vendor" max_length="32" name="u_vendor" reference="core_company" type="reference"/>
+        <index name="index">
+            <element name="u_assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="u_category"/>
+        </index>
+        <index name="index3">
+            <element name="u_owner"/>
+        </index>
+        <index name="index4">
+            <element name="u_document"/>
+        </index>
+        <index name="index5">
+            <element name="u_vendor"/>
+        </index>
+        <index name="index6">
+            <element name="u_schedule"/>
+        </index>
+        <index name="index7">
+            <element name="u_agreement"/>
+        </index>
     </element>
 </database>

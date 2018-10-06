@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Contract Deviation Incident" max_length="40" name="x_191599_cvt_contract_deviation_incident" type="collection"/>
+    <element audit="true" extends="task" label="Contract Deviation Incident" max_length="40" name="x_191599_cvt_contract_deviation_incident" type="collection">
+        <element label="Affected D&amp;O" max_length="32" name="u_affected_do" reference="x_191599_cvt_do" type="reference"/>
+    </element>
 </database>

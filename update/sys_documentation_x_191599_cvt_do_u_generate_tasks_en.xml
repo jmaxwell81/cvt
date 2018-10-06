@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="u_verification_deadline" label="Verification deadline" language="en" table="x_191599_cvt_do_task">
+    <sys_documentation element="u_generate_tasks" label="Generate tasks" language="en" table="x_191599_cvt_do">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_verification_deadline</element>
+            <element>u_generate_tasks</element>
             <help/>
-            <hint/>
-            <label>Verification deadline</label>
+            <hint>Automatically generate tasks according to schedule</hint>
+            <label>Generate tasks</label>
             <language>en</language>
-            <name>x_191599_cvt_do_task</name>
-            <plural>Verification deadlines</plural>
+            <name>x_191599_cvt_do</name>
+            <plural>Generate tasks</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-06 12:11:03</sys_created_on>
-            <sys_id>758a12ac4fc92300c9eae321a310c722</sys_id>
+            <sys_created_on>2018-10-06 13:55:51</sys_created_on>
+            <sys_id>8d82b26c4f0d2300c9eae321a310c71f</sys_id>
             <sys_mod_count>1</sys_mod_count>
-            <sys_name>Verification deadline</sys_name>
+            <sys_name>Generate tasks</sys_name>
             <sys_package display_value="Contract Value Tracker" source="x_191599_cvt">850537544f852300c9eae321a310c776</sys_package>
             <sys_policy/>
             <sys_scope display_value="Contract Value Tracker">850537544f852300c9eae321a310c776</sys_scope>
-            <sys_update_name>sys_documentation_x_191599_cvt_do_task_u_verification_deadline_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_191599_cvt_do_u_generate_tasks_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-06 12:50:09</sys_updated_on>
+            <sys_updated_on>2018-10-06 13:55:58</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

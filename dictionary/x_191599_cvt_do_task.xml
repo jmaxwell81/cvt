@@ -6,6 +6,6 @@
         <element label="Document" max_length="32" name="u_document" reference="task" type="reference"/>
         <element label="Instructions" max_length="1000" name="u_instructions" type="string"/>
         <element label="Verification comments" max_length="1000" name="u_verification_comments" type="string"/>
-        <element label="Verification Deadline" max_length="40" name="u_verification_deadline" type="glide_date"/>
+        <element label="Verification deadline" max_length="40" name="u_verification_deadline" type="glide_date"/>
     </element>
 </database>
