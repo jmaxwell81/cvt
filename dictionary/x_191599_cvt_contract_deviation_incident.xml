@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Contract Deviation Incident" max_length="40" name="x_191599_cvt_contract_deviation_incident" type="collection"/>
+</database>
