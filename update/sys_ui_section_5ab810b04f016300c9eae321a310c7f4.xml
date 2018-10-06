@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Terms &amp; Conditions" section_id="5ab810b04f016300c9eae321a310c7f4" sys_domain="global" table="ast_contract" version="3" view="Contract_Value_Tracker">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>terms_and_conditions</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:22:24</sys_created_on>
+            <sys_id>96b890b04f016300c9eae321a310c74c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Terms &amp; Conditions" display_value="Terms &amp; Conditions" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">5ab810b04f016300c9eae321a310c7f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:22:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Terms &amp; Conditions</caption>
+            <header>false</header>
+            <name>ast_contract</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:22:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ab810b04f016300c9eae321a310c7f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Terms &amp; Conditions</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Contract Value Tracker" source="x_191599_cvt">850537544f852300c9eae321a310c776</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contract Value Tracker">850537544f852300c9eae321a310c776</sys_scope>
+            <sys_update_name>sys_ui_section_5ab810b04f016300c9eae321a310c7f4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:22:24</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Contract Value Tracker" name="Contract_Value_Tracker">399dc4f84fcd2300c9eae321a310c724</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

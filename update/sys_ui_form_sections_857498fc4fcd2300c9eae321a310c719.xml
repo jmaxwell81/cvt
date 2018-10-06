@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="857498fc4fcd2300c9eae321a310c719" sys_domain="global" table="ast_contract" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:03:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>457498fc4fcd2300c9eae321a310c71c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="ast_contract" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">857498fc4fcd2300c9eae321a310c719</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">817498fc4fcd2300c9eae321a310c718</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:03:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:12:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed861c304f016300c9eae321a310c7bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="ast_contract" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">857498fc4fcd2300c9eae321a310c719</sys_ui_form>
+            <sys_ui_section caption="General" display_value="General" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">2986d8304f016300c9eae321a310c7db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:12:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:18:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54d7d4704f016300c9eae321a310c77b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="ast_contract" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">857498fc4fcd2300c9eae321a310c719</sys_ui_form>
+            <sys_ui_section caption="Renewal/Extension" display_value="Renewal/Extension" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">1cd7d4704f016300c9eae321a310c778</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:18:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:20:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da381c704f016300c9eae321a310c708</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="ast_contract" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">857498fc4fcd2300c9eae321a310c719</sys_ui_form>
+            <sys_ui_section caption="Financial" display_value="Financial" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">5e381c704f016300c9eae321a310c705</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:20:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:22:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2b890b04f016300c9eae321a310c73b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="ast_contract" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">857498fc4fcd2300c9eae321a310c719</sys_ui_form>
+            <sys_ui_section caption="Terms &amp; Conditions" display_value="Terms &amp; Conditions" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">5ab810b04f016300c9eae321a310c7f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:22:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:23:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53f814b04f016300c9eae321a310c7b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="ast_contract" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">857498fc4fcd2300c9eae321a310c719</sys_ui_form>
+            <sys_ui_section caption="Approval History" display_value="Approval History" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">5bf814b04f016300c9eae321a310c7b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:23:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>ast_contract</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:03:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>857498fc4fcd2300c9eae321a310c719</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ast_contract</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Contract Value Tracker" source="x_191599_cvt">850537544f852300c9eae321a310c776</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contract Value Tracker">850537544f852300c9eae321a310c776</sys_scope>
+            <sys_update_name>sys_ui_form_sections_857498fc4fcd2300c9eae321a310c719</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:03:45</sys_updated_on>
+            <sys_user/>
+            <view display_value="Contract Value Tracker" name="Contract_Value_Tracker">399dc4f84fcd2300c9eae321a310c724</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

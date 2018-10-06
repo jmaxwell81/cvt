@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sla" version="2" view="Contract_Value_Tracker">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="sla" element="NULL" name="sla" parent="NULL" relationship="NULL" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">12b21c7c4fcd2300c9eae321a310c77f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 20:56:11</sys_created_on>
+            <sys_id>96b21c7c4fcd2300c9eae321a310c77f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 20:56:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="sla" element="NULL" name="sla" parent="NULL" relationship="NULL" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">12b21c7c4fcd2300c9eae321a310c77f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 20:56:11</sys_created_on>
+            <sys_id>1ab21c7c4fcd2300c9eae321a310c77f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 20:56:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="sla" element="NULL" name="sla" parent="NULL" relationship="NULL" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">12b21c7c4fcd2300c9eae321a310c77f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 20:56:11</sys_created_on>
+            <sys_id>9ab21c7c4fcd2300c9eae321a310c77f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 20:56:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_191599_cvt_u_owner</element>
+            <list_id display_value="sla" element="NULL" name="sla" parent="NULL" relationship="NULL" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">12b21c7c4fcd2300c9eae321a310c77f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 20:56:11</sys_created_on>
+            <sys_id>1eb21c7c4fcd2300c9eae321a310c77f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 20:56:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>begins</element>
+            <list_id display_value="sla" element="NULL" name="sla" parent="NULL" relationship="NULL" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">12b21c7c4fcd2300c9eae321a310c77f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 20:56:11</sys_created_on>
+            <sys_id>9eb21c7c4fcd2300c9eae321a310c77f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 20:56:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ends</element>
+            <list_id display_value="sla" element="NULL" name="sla" parent="NULL" relationship="NULL" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">12b21c7c4fcd2300c9eae321a310c77f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 20:56:11</sys_created_on>
+            <sys_id>12b21c7c4fcd2300c9eae321a310c780</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 20:56:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sla</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 20:56:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12b21c7c4fcd2300c9eae321a310c77f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sla</sys_name>
+            <sys_package display_value="Contract Value Tracker" source="x_191599_cvt">850537544f852300c9eae321a310c776</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contract Value Tracker">850537544f852300c9eae321a310c776</sys_scope>
+            <sys_update_name>sys_ui_list_sla_Contract_Value_Tracker</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 20:56:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="Contract Value Tracker" name="Contract_Value_Tracker">399dc4f84fcd2300c9eae321a310c724</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Contract" max_length="40" name="ast_contract" type="collection">
+        <element label="Business Contract Owner" max_length="32" name="x_191599_cvt_business_contract_owner" reference="sys_user" type="reference"/>
+    </element>
+</database>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Financial" section_id="5e381c704f016300c9eae321a310c705" sys_domain="global" table="ast_contract" version="3" view="Contract_Value_Tracker">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost_center</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:21:32</sys_created_on>
+            <sys_id>a18810b04f016300c9eae321a310c779</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">5e381c704f016300c9eae321a310c705</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:21:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tax_exempt</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:21:32</sys_created_on>
+            <sys_id>258810b04f016300c9eae321a310c779</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">5e381c704f016300c9eae321a310c705</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:21:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sales_tax</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:21:32</sys_created_on>
+            <sys_id>a58810b04f016300c9eae321a310c779</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">5e381c704f016300c9eae321a310c705</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:21:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tax_rate</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:21:32</sys_created_on>
+            <sys_id>298810b04f016300c9eae321a310c779</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">5e381c704f016300c9eae321a310c705</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:21:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ratecard</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:21:32</sys_created_on>
+            <sys_id>a98810b04f016300c9eae321a310c779</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">5e381c704f016300c9eae321a310c705</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:21:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:21:32</sys_created_on>
+            <sys_id>2d8810b04f016300c9eae321a310c779</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">5e381c704f016300c9eae321a310c705</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:21:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>invoice_payment_terms</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:21:32</sys_created_on>
+            <sys_id>ad8810b04f016300c9eae321a310c779</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">5e381c704f016300c9eae321a310c705</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:21:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>payment_schedule</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:21:32</sys_created_on>
+            <sys_id>218810b04f016300c9eae321a310c77a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">5e381c704f016300c9eae321a310c705</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:21:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>payment_amount</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:21:32</sys_created_on>
+            <sys_id>a18810b04f016300c9eae321a310c77a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">5e381c704f016300c9eae321a310c705</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:21:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tax_cost</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:21:32</sys_created_on>
+            <sys_id>258810b04f016300c9eae321a310c77a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">5e381c704f016300c9eae321a310c705</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:21:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_cost</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:21:32</sys_created_on>
+            <sys_id>a58810b04f016300c9eae321a310c77a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financial" display_value="Financial" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">5e381c704f016300c9eae321a310c705</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:21:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Financial</caption>
+            <header>false</header>
+            <name>ast_contract</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:20:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e381c704f016300c9eae321a310c705</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Financial</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Contract Value Tracker" source="x_191599_cvt">850537544f852300c9eae321a310c776</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contract Value Tracker">850537544f852300c9eae321a310c776</sys_scope>
+            <sys_update_name>sys_ui_section_5e381c704f016300c9eae321a310c705</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:20:13</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Contract Value Tracker" name="Contract_Value_Tracker">399dc4f84fcd2300c9eae321a310c724</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

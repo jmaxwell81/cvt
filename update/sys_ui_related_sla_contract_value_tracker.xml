@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="sla" version="2" view="Contract_Value_Tracker">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Agreement - Contract Value Tracker" name="sla" related_list="NULL" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">1726a0f84f016300c9eae321a310c73f</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_191599_cvt_do.u_agreement</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 22:21:11</sys_created_on>
+            <sys_id>db26a0f84f016300c9eae321a310c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 22:21:11</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Agreement - Contract Value Tracker" name="sla" related_list="NULL" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">1726a0f84f016300c9eae321a310c73f</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>cmdb_ci_service.sla</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 22:21:11</sys_created_on>
+            <sys_id>df26a0f84f016300c9eae321a310c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 22:21:11</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Agreement - Contract Value Tracker" name="sla" related_list="NULL" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">1726a0f84f016300c9eae321a310c73f</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>itil_agreement_reports.agreement</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 22:21:11</sys_created_on>
+            <sys_id>d326a0f84f016300c9eae321a310c740</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 22:21:11</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Agreement - Contract Value Tracker" name="sla" related_list="NULL" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">1726a0f84f016300c9eae321a310c73f</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>itil_agreement_support.agreement</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 22:21:11</sys_created_on>
+            <sys_id>d726a0f84f016300c9eae321a310c740</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 22:21:11</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Agreement - Contract Value Tracker" name="sla" related_list="NULL" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">1726a0f84f016300c9eae321a310c73f</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>itil_agreement_owners.agreement</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 22:21:11</sys_created_on>
+            <sys_id>db26a0f84f016300c9eae321a310c740</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 22:21:11</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Agreement - Contract Value Tracker</calculated_name>
+            <filter/>
+            <name>sla</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 22:21:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1726a0f84f016300c9eae321a310c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Agreement - Contract Value Tracker</sys_name>
+            <sys_package display_value="Contract Value Tracker" source="x_191599_cvt">850537544f852300c9eae321a310c776</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contract Value Tracker">850537544f852300c9eae321a310c776</sys_scope>
+            <sys_update_name>sys_ui_related_sla_Contract_Value_Tracker</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 22:21:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="Contract Value Tracker" name="Contract_Value_Tracker">399dc4f84fcd2300c9eae321a310c724</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

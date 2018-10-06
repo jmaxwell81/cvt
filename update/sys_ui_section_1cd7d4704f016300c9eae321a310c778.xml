@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Renewal/Extension" section_id="1cd7d4704f016300c9eae321a310c778" sys_domain="global" table="ast_contract" version="3" view="Contract_Value_Tracker">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>renewable</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:19:38</sys_created_on>
+            <sys_id>3918d8704f016300c9eae321a310c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Renewal/Extension" display_value="Renewal/Extension" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">1cd7d4704f016300c9eae321a310c778</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:19:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>renewal_options</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:19:38</sys_created_on>
+            <sys_id>b918d8704f016300c9eae321a310c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Renewal/Extension" display_value="Renewal/Extension" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">1cd7d4704f016300c9eae321a310c778</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:19:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>renewal_date</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:19:38</sys_created_on>
+            <sys_id>3d18d8704f016300c9eae321a310c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Renewal/Extension" display_value="Renewal/Extension" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">1cd7d4704f016300c9eae321a310c778</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:19:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>renewal_end_date</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:19:38</sys_created_on>
+            <sys_id>bd18d8704f016300c9eae321a310c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Renewal/Extension" display_value="Renewal/Extension" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">1cd7d4704f016300c9eae321a310c778</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:19:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:19:38</sys_created_on>
+            <sys_id>3118d8704f016300c9eae321a310c752</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Renewal/Extension" display_value="Renewal/Extension" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">1cd7d4704f016300c9eae321a310c778</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:19:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>renewal_contact</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:19:38</sys_created_on>
+            <sys_id>b118d8704f016300c9eae321a310c752</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Renewal/Extension" display_value="Renewal/Extension" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">1cd7d4704f016300c9eae321a310c778</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:19:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost_adjustment_type</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:19:38</sys_created_on>
+            <sys_id>3518d8704f016300c9eae321a310c752</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Renewal/Extension" display_value="Renewal/Extension" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">1cd7d4704f016300c9eae321a310c778</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:19:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost_adjustment</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:19:38</sys_created_on>
+            <sys_id>b518d8704f016300c9eae321a310c752</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Renewal/Extension" display_value="Renewal/Extension" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">1cd7d4704f016300c9eae321a310c778</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:19:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost_adjustment_percentage</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:19:38</sys_created_on>
+            <sys_id>3918d8704f016300c9eae321a310c752</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Renewal/Extension" display_value="Renewal/Extension" name="ast_contract" sys_domain="global" view="399dc4f84fcd2300c9eae321a310c724">1cd7d4704f016300c9eae321a310c778</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:19:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Renewal/Extension</caption>
+            <header>false</header>
+            <name>ast_contract</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 21:18:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1cd7d4704f016300c9eae321a310c778</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Renewal/Extension</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Contract Value Tracker" source="x_191599_cvt">850537544f852300c9eae321a310c776</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contract Value Tracker">850537544f852300c9eae321a310c776</sys_scope>
+            <sys_update_name>sys_ui_section_1cd7d4704f016300c9eae321a310c778</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 21:18:27</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Contract Value Tracker" name="Contract_Value_Tracker">399dc4f84fcd2300c9eae321a310c724</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
