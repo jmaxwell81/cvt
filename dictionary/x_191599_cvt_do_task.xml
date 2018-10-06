@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="D&amp;O Task" max_length="40" name="x_191599_cvt_do_task" type="collection"/>
+    <element extends="task" label="D&amp;O Task" max_length="40" name="x_191599_cvt_do_task" type="collection">
+        <element label="Contract § Reference" max_length="100" name="u_contract_reference" type="string"/>
+        <element label="D&amp;O" max_length="32" name="u_do" reference="x_191599_cvt_do" type="reference"/>
+        <element label="Document" max_length="32" name="u_document" reference="task" type="reference"/>
+        <element label="Instructions" max_length="1000" name="u_instructions" type="string"/>
+        <element label="Verification comments" max_length="1000" name="u_verification_comments" type="string"/>
+        <element label="Verification Deadline" max_length="40" name="u_verification_deadline" type="glide_date"/>
+    </element>
 </database>

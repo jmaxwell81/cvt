@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="4deb9eac4fc92300c9eae321a310c7c6" sys_domain="global" table="x_191599_cvt_do_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 12:17:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>09eb9eac4fc92300c9eae321a310c7c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_191599_cvt_do_task" name="x_191599_cvt_do_task" sys_domain="global" view="Default view">4deb9eac4fc92300c9eae321a310c7c6</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_191599_cvt_do_task" sys_domain="global" view="Default view">816356a84fc92300c9eae321a310c707</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 12:17:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 12:17:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8deb9eac4fc92300c9eae321a310c7c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_191599_cvt_do_task" name="x_191599_cvt_do_task" sys_domain="global" view="Default view">4deb9eac4fc92300c9eae321a310c7c6</sys_ui_form>
+            <sys_ui_section caption="Instructions" display_value="Instructions" name="x_191599_cvt_do_task" sys_domain="global" view="Default view">41eb9eac4fc92300c9eae321a310c7c8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 12:17:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 12:17:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4efb9a6c4fc92300c9eae321a310c795</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_191599_cvt_do_task" name="x_191599_cvt_do_task" sys_domain="global" view="Default view">4deb9eac4fc92300c9eae321a310c7c6</sys_ui_form>
+            <sys_ui_section caption="Verification" display_value="Verification" name="x_191599_cvt_do_task" sys_domain="global" view="Default view">cefb9a6c4fc92300c9eae321a310c793</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 12:17:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_191599_cvt_do_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 12:17:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4deb9eac4fc92300c9eae321a310c7c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_191599_cvt_do_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Contract Value Tracker" source="x_191599_cvt">850537544f852300c9eae321a310c776</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contract Value Tracker">850537544f852300c9eae321a310c776</sys_scope>
+            <sys_update_name>sys_ui_form_sections_4deb9eac4fc92300c9eae321a310c7c6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 12:17:00</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
