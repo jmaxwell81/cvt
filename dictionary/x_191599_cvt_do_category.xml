@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="D&amp;O Category" max_length="40" name="x_191599_cvt_do_category" type="collection"/>
+    <element label="D&amp;O Category" max_length="40" name="x_191599_cvt_do_category" type="collection">
+        <element label="Description" max_length="1000" name="u_description" type="string"/>
+        <element label="Name" max_length="100" name="u_name" type="string"/>
+    </element>
 </database>
