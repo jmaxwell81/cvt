@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element attributes="all_tables.text_index_translations=true" label="Agreement" max_length="40" name="sla" read_roles="itil" text_index="true" type="collection">
-        <element label="Owner" max_length="32" name="x_191599_cvt_u_owner" reference="sys_user" type="reference"/>
+        <element label="Owner" max_length="32" name="x_191599_cvt_owner" reference="sys_user" type="reference"/>
         <index name="index">
-            <element name="x_191599_cvt_u_owner"/>
+            <element name="x_191599_cvt_owner"/>
         </index>
     </element>
 </database>

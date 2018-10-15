@@ -2,5 +2,45 @@
 <database>
     <element label="Contract" max_length="40" name="ast_contract" type="collection">
         <element label="Business Contract Owner" max_length="32" name="x_191599_cvt_business_contract_owner" reference="sys_user" type="reference"/>
+        <element choice="1" label="Signature state" max_length="40" name="x_191599_cvt_signature_state" type="integer">
+            <choice>
+                <element label="Send for signature" sequence="0" value="1"/>
+                <element label="Signed" sequence="1" value="2"/>
+            </choice>
+        </element>
+        <element label="Signer 1" max_length="32" name="x_191599_cvt_signer1" reference="sys_user" type="reference"/>
+        <element label="Signer 2" max_length="32" name="x_191599_cvt_signer2" reference="sys_user" type="reference"/>
+        <element label="Signer 3" max_length="32" name="x_191599_cvt_signer3" reference="sys_user" type="reference"/>
+        <element label="Signer 4" max_length="32" name="x_191599_cvt_signer4" reference="sys_user" type="reference"/>
+        <element label="Signer 5" max_length="32" name="x_191599_cvt_signer5" reference="sys_user" type="reference"/>
+        <element label="Signer 6" max_length="32" name="x_191599_cvt_signer6" reference="sys_user" type="reference"/>
+        <element choice="1" label="No. of signers" max_length="40" name="x_191599_cvt_signers" type="choice">
+            <choice>
+                <element label="1" sequence="1" value="1"/>
+                <element label="2" sequence="2" value="2"/>
+                <element label="3" sequence="3" value="3"/>
+                <element label="4" sequence="4" value="4"/>
+                <element label="5" sequence="5" value="5"/>
+                <element label="6" sequence="6" value="6"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="x_191599_cvt_signer2"/>
+        </index>
+        <index name="index2">
+            <element name="x_191599_cvt_signer3"/>
+        </index>
+        <index name="index3">
+            <element name="x_191599_cvt_signer1"/>
+        </index>
+        <index name="index4">
+            <element name="x_191599_cvt_signer6"/>
+        </index>
+        <index name="index5">
+            <element name="x_191599_cvt_signer4"/>
+        </index>
+        <index name="index6">
+            <element name="x_191599_cvt_signer5"/>
+        </index>
     </element>
 </database>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>x_191599_cvt_signature_state</element>
+        <name>ast_contract</name>
+        <style>background-color:tomato</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-08 19:36:24</sys_created_on>
+        <sys_id>cd4356d54f812300c9eae321a310c7a3</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>ast_contract</sys_name>
+        <sys_package display_value="Contract Value Tracker" source="x_191599_cvt">850537544f852300c9eae321a310c776</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contract Value Tracker">850537544f852300c9eae321a310c776</sys_scope>
+        <sys_update_name>sys_ui_style_cd4356d54f812300c9eae321a310c7a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-08 20:18:49</sys_updated_on>
+        <value>javascript: current.state == "active" &amp;&amp; current.x_191599_cvt_signature_state == 1</value>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=cd4356d54f812300c9eae321a310c7a3"/>
+</record_update>
